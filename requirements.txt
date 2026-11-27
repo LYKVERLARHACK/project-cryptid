@@ -1,0 +1,4 @@
+yt-dlp[default]
+ddgs
+faster-whisper
+av>=11,<19

@@ -1,0 +1,11 @@
+.env
+*.env.*
+
+__pycache__/
+.venv/
+
+obj/
+bin/
+
+.vscode/
+.vs/
